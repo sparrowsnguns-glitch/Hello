@@ -31,7 +31,7 @@ const LANG = {
     title: "Maderoterapia Ibiza",
     start: "Iniciar cuestionario",
     restart: "Reiniciar cuestionario",
-    infoText: "Descubre tu programa personalizado de Maderoterapia para relajación, contorno y bienestar linfático durante tus estancia en Ibiza.",
+    infoText: "Descubre tu programa personalizado de Maderoterapia para relajación, contorno y bienestar linfático durante tu estancia en Ibiza.",
     progress: "Pregunta",
     of: "de",
     namePlaceholder: "Tu nombre (requerido)",
